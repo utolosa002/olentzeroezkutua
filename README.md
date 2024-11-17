@@ -1,6 +1,6 @@
 # Olentzero Ezkutua
 
-Check it live on [utolosa002.github.io/Olentzeroezkutua/](http://utolosa002.github.io/Olentzeroezkutua/).
+Check it live on [utolosa002.github.io/olentzeroezkutua/](http://utolosa002.github.io/olentzeroezkutua/).
 
 ## License (MIT)
 
