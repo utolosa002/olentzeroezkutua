@@ -1,6 +1,6 @@
-# Secret Santa
+# Olentzero Ezkutua
 
-Check it live on [arcanis.github.io/secretsanta/](http://arcanis.github.io/secretsanta/).
+Check it live on [utolosa002.github.io/Olentzeroezkutua/](http://utolosa002.github.io/Olentzeroezkutua/).
 
 ## License (MIT)
 
