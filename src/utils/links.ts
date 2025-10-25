@@ -19,7 +19,7 @@ export async function generateAssignmentLink(giver: string, receiver: string, re
     params.set('info', instructions.trim());
   }
 
-  return `${baseUrl}/pairing?${params.toString()}`;
+  return `${baseUrl}/#/pairing?${params.toString()}`;
 }
 
 export function generateCSV(assignments: [string, string][]) {
